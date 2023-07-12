@@ -1,7 +1,7 @@
 # Booklist Project
 ## Technology 
-.React
-.Tailwind CSS
+1. React
+2. Tailwind CSS
 .Redux
 .React Redux
 .Redux Thunk
