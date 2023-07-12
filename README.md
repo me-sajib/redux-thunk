@@ -2,6 +2,6 @@
 ## Technology 
 1. React
 2. Tailwind CSS
-.Redux
-.React Redux
-.Redux Thunk
+3. Redux
+4. React Redux
+5. Redux Thunk
