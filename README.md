@@ -1,5 +1,5 @@
 # Booklist Project
-## Technology 
+## Used Technology 
 1. React
 2. Tailwind CSS
 3. Redux
